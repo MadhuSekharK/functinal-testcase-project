@@ -1,0 +1,15 @@
+Steps to Run Test Cases:
+
+For Web Test cases :
+1. Open Project in eclipse
+2. go to src/test/resources
+3. Run testNGWeb.xml
+
+
+
+For APITest cases :
+1. Open Project in eclipse
+2. go to src/test/resources
+3. Run testNGService.xml
+ 
+Test Report Location: test-output/emailable-report.html( Sample)
